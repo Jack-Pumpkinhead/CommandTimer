@@ -1,0 +1,10 @@
+name: CommandRepeater
+version: 1.0.0
+author: Munchkin-Scarecrow
+main: land.oz.munchkin.Home
+api-version: "1.14"
+
+commands:
+  repeatcommand:
+    description: Repeat commands at fix rate.
+    usage: /repeatcommand
